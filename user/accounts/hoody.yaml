@@ -1,0 +1,11 @@
+email: contact@juergenhuettner.com
+fullname: 'Juergen Huettner'
+title: 'The Dude'
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$U6Da4a2B7/9YV2V0vk5MHOS9CUuh5VrsgFjxoUCodcwzLnykUCmXS

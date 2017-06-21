@@ -1,0 +1,21 @@
+# Grav Specific
+.sass-cache
+composer.lock
+cache/*
+assets/*
+logs/*
+images/*
+user/data/*
+user/themes/antimatter
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+.idea
+
+# Theme Specific
+user/themes/boundless/node_modules
+

@@ -22,8 +22,8 @@ module.exports = {
   babel: false,
   config_browsersync: {
     notify: false,
-    open: false,
-    proxy: 'gravcms.dev'
+    open: true,
+    proxy: 'https://gravcms.dev'
   },
   critical_css_entry: 'sass/critical/critical.scss',
   main_css_entry: 'sass/main/main.scss'
